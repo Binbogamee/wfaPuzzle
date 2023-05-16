@@ -164,7 +164,7 @@ namespace wfaPuzzle
         }
         
         /// <summary>
-        /// Создание массива PictureBox'ов из картинок
+        /// Создание массива PictureBox из картинок
         /// </summary>
         private void CreatePbAllPictures()
         {
